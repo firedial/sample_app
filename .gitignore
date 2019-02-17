@@ -26,3 +26,6 @@
 config/secrets.yml.key
 config/secrets.yml.enc
 config/database.yml
+
+# アップロードされたテスト画像を無視する
+/public/uploads
